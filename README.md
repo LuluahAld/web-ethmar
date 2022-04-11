@@ -1,6 +1,6 @@
 # ethmar-web
 point 1:pip install -r re.txt
-point 2:python manage.py makemigrations (if you change db other wise no need to run)
+point 2:python manage.py makemigrations ( when changing db )
 point 3: python manage.py migrate(same as point 2)
 point 4:python manage.py runserver(backenserverd)
 point 5:npm run dev (front end)
